@@ -1,1 +1,2 @@
 I've written in the file1 for the first time.
+I am updating the file through master.
